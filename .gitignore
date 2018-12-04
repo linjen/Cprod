@@ -24,5 +24,12 @@ reportTypes/*
 samlssoconfigs/*
 staticresources/*
 translations/*
- 
- 
+package.xml
+installedPackages/*
+classes/copado__*
+triggers/copado__*
+pages/copado__*
+translations/*
+objectTranslations/*
+sites/*
+siteDotComSites/*
